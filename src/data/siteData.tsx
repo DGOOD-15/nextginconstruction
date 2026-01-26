@@ -72,9 +72,9 @@ export const siteData = {
   description:
     "Full home renovation showcasing multiple transformations completed throughout the property.",
   images: [
-    "/projects/whole-home-remodel-1.jpg",
-    "/projects/whole-home-remodel-2.jpg",
-    "/projects/whole-home-remodel-3.jpg",
+    "/projects/wholehome-remodel-1.jpg",
+    "/projects/wholehome-remodel-2.jpg",
+    "/projects/wholehome-remodel-3.jpg",
   ],
 },
 {
