@@ -12,13 +12,16 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata: Metadata = {
-  title: {
-    default: "Nextgin Construction",
-    template: "%s | Nextgin Construction",
+export const metadata = {
+  metadataBase: new URL("https://nextginconstruction.com"),
+  title: "NextGen Construction | Remodeling & Home Renovation",
+  description:
+    "Professional home remodeling, flooring, bathroom renovations, and construction services in Kentucky.",
+  alternates: {
+    canonical: "/",
   },
-  description: "Quality construction. Built to last.",
 };
+
 
 
 
